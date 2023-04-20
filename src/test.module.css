@@ -1,0 +1,12 @@
+.test {
+  padding: 24px;
+  background-color: red;
+  margin: 0 auto;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.container {
+  background-color: azure;
+}
